@@ -19,17 +19,17 @@ Las cuatro secciones son: Panorama; Daños y criticidad; Empleo y liquidez; y Re
 
 ## Lectura del mapa
 
-- Los puntos turquesa corresponden a **273 registros** ubicados mediante una dirección o lugar georreferenciado.
-- Los puntos naranjas agrupan **148 registros** ubicados en el centroide oficial de su municipio.
+- Los puntos turquesa corresponden a **303 registros** ubicados mediante una dirección o lugar georreferenciado.
+- Los puntos naranjas agrupan **165 registros** ubicados en el centroide oficial de su municipio.
 - Un centroide municipal es una ubicación referencial: no representa la dirección ni la ubicación exacta del establecimiento.
 - El mapa abre con el mismo estilo institucional del visor de referencia. El menú de capas permite cambiar a OpenStreetMap y conserva visibles las atribuciones correspondientes.
 
 ## Alcance de la información
 
-- Corte de respuestas: **19 de agosto de 2026**.
-- Universo: **421 registros en 21 municipios**.
-- Todos los registros tienen una coordenada para visualización: 273 georreferenciados por dirección o lugar y 148 ubicados de manera referencial en centroides municipales.
-- 13 fechas de reporte están marcadas como “por revisar” o “sin fecha válida”; por eso el corte se basa en la fecha de respuesta.
+- Corte de respuestas: **21 de agosto de 2026**.
+- Universo: **468 registros en 21 municipios**.
+- Todos los registros tienen una coordenada para visualización: 303 georreferenciados por dirección o lugar y 165 ubicados de manera referencial en centroides municipales.
+- 14 fechas de reporte están marcadas como “por revisar” o “sin fecha válida”; por eso el corte se basa en la fecha de respuesta.
 - Los puestos de trabajo en riesgo se presentan como rangos. No se suman límites mínimos de intervalos.
 - El monto corresponde a los recursos que la persona estimó necesarios para restablecer su operación.
 - Los montos se presentan por rangos; no se publica una suma total porque existen valores atípicos y registros que requieren revisión.
